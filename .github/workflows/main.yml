@@ -9,5 +9,5 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Run Feed Generator
+      - name: Run Feed Generators
         uses: SaiKumarBalabhadruni/podcast-generator@main
